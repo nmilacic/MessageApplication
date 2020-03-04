@@ -1,0 +1,159 @@
+.approvedbtn {
+  background-color: #f8f8f8;
+  color: gray;
+}
+.logoutbtn {
+  border-radius: 20px;
+  background-color: #1a53ff;
+  color: #fff;
+}
+.header-spacer {
+  flex: 1 1 auto;
+}
+.logoheader {
+  box-shadow: 1px 2px 3px #888888;
+  background-color: #f8f8f8;
+  height: auto;
+  width: 100%;
+  padding: 20px;
+  top: 0;
+  position: fixed;
+  z-index: 2;
+}
+.mibologo {
+  float: left;
+  height: auto;
+  width: 200px;
+  filter: drop-shadow(2px 2px 2px #888888);
+  padding: 20px;
+}
+.creativelogo {
+  float: left;
+  height: auto;
+  width: 300px;
+  filter: drop-shadow(2px 2px 2px #888888);
+  padding: 20px;
+}
+.message-card {
+  max-width: 800px;
+  height: auto;
+  width: 100%;
+  padding: auto;
+  margin: 5% auto 2% auto;
+  float: center;
+  background-color: #f8f8f8;
+}
+.dialogmessage {
+  margin: 0;
+}
+.allowbtn {
+  text-align: right;
+}
+.commentbtn {
+  text-align: center;
+}
+.commenticon {
+  color: #3f3f3f;
+}
+.example-full-width {
+  width: 100%;
+}
+.sendbtn {
+  text-align: right;
+}
+.messagebtn {
+  float: right;
+  text-align: right;
+  padding-top: 50px;
+}
+.addbtn {
+  margin: 10px 20px 20px auto;
+  height: 60px;
+  width: 60px;
+}
+.addicon {
+  color: darkorange;
+}
+.limitedText {
+  overflow: hidden;
+  max-width: 800px;
+  white-space: pre-line;
+}
+.messagetext {
+  height: auto;
+}
+.checkbtn,
+.restorebtn {
+  color: green;
+}
+.email {
+  margin: 10px;
+}
+.accounticon {
+  text-align: left;
+  padding-right: 20px;
+}
+.search {
+  height: auto;
+  width: 400px;
+  padding-top: 50px;
+  margin: 17% auto 2% 1%;
+}
+.searchbtn {
+  text-align: right;
+}
+.search-full-width {
+  width: 100%;
+}
+.searchicon {
+  color: #888888;
+  padding-bottom: 0px;
+  padding-right: 10px;
+}
+
+@media (max-width: 600px) {
+  .mibologo {
+    width: 30%;
+    padding: 20px 5px 20px 20px;
+  }
+  .creativelogo {
+    width: 40%;
+    padding: 10px;
+  }
+  .message-card {
+    width: auto;
+    margin: 10% 0% 8% 0%;
+    padding: auto 5px;
+  }
+  .addbtn {
+    margin: 20px 20px 10px auto;
+  
+  }
+  .messagetext {
+    margin: 0px;
+    float: center;
+    
+  }
+  .logoheader {
+    margin: 0;
+    padding: 5% auto;
+    position: relative;
+    display: inline-block;
+  }
+  .headerbtn {
+    float: right;
+  }
+  .header-spacer {
+    flex: 0 0 auto;
+  }
+  .search {
+    margin: 50px auto 2px 2px;
+    width: 300px;
+  }
+  .spaceitem {
+    margin-top: 15px;
+  }
+  .header-spacer {
+    flex: 0 0 auto;
+  }
+}

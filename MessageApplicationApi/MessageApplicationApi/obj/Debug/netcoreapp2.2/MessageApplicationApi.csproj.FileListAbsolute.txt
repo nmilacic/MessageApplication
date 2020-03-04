@@ -1,0 +1,32 @@
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MessageApplicationApi.RazorAssemblyInfo.cache
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MessageApplicationApi.RazorAssemblyInfo.cs
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MessageApplicationApi.AssemblyInfoInputs.cache
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MessageApplicationApi.AssemblyInfo.cs
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\MessageApplicationApi.deps.json
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\MessageApplicationApi.runtimeconfig.json
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\MessageApplicationApi.runtimeconfig.dev.json
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\MessageApplicationApi.dll
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\MessageApplicationApi.pdb
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MessageApplicationApi.csprojAssemblyReference.cache
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MessageApplicationApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MessageApplicationApi.dll
+C:\Users\Nevena\Desktop\login\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master (1)\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\MessageApplicationApi.pdb
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\bin\Debug\netcoreapp2.2\MessageApplicationApi.deps.json
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\bin\Debug\netcoreapp2.2\MessageApplicationApi.runtimeconfig.json
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\bin\Debug\netcoreapp2.2\MessageApplicationApi.runtimeconfig.dev.json
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\bin\Debug\netcoreapp2.2\MessageApplicationApi.dll
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\bin\Debug\netcoreapp2.2\MessageApplicationApi.pdb
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\obj\Debug\netcoreapp2.2\MessageApplicationApi.csprojAssemblyReference.cache
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\obj\Debug\netcoreapp2.2\MessageApplicationApi.RazorAssemblyInfo.cache
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\obj\Debug\netcoreapp2.2\MessageApplicationApi.RazorAssemblyInfo.cs
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\obj\Debug\netcoreapp2.2\MessageApplicationApi.AssemblyInfoInputs.cache
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\obj\Debug\netcoreapp2.2\MessageApplicationApi.AssemblyInfo.cs
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\obj\Debug\netcoreapp2.2\MessageApplicationApi.RazorTargetAssemblyInfo.cache
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\obj\Debug\netcoreapp2.2\MessageApplicationApi.dll
+C:\Users\Nevena\Desktop\MessageApplication\MessageApplication\MessageApplicationApi\MessageApplicationApi\obj\Debug\netcoreapp2.2\MessageApplicationApi.pdb

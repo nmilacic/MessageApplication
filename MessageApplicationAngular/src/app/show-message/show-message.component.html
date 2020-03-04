@@ -1,0 +1,62 @@
+<mat-toolbar class="logoheader">
+  <span><img src="assets\images\logo.png" class="creativelogo" (click)="onLogoClick()"></span>
+  <span class="header-spacer"></span>
+    <button mat-flat-button (click) = "onLogout()"matTooltip="Sign Out" class="logoutbtn"> Sign Out</button>
+</mat-toolbar>
+
+<div class="messagebtn">
+  <button mat-mini-fab color="white" (click)="openDialog()" class="addbtn" matTooltip="Leave a message">
+    <mat-icon class="addicon">add</mat-icon>
+  </button>
+</div>
+<div class="search">
+  <mat-form-field class="search-full-width ">
+    <mat-icon matPrefix class="searchicon">search</mat-icon>
+    <input matInput placeholder="Search" [(ngModel)]="searchText" autocomplete="off">
+    <button mat-button *ngIf="searchText" matSuffix mat-icon-button aria-label="Clear" (click)="searchText=''"
+      matTooltip="Delete">
+      <mat-icon>close</mat-icon>
+    </button>
+  </mat-form-field>
+</div>
+
+    <div class="portalcontent">
+      <span *ngFor="let message of service.messages | filter:searchText" class="dialogmessage">
+        <mat-card class="message-card" *ngIf="message.IsDeleted == false" >
+          <div class="email">
+            <mat-icon class="accounticon">account_circle</mat-icon>{{message.UserName}}
+          </div>
+          <mat-card-content>
+            <div class="messagetext">
+              <mat-card>
+                <p class="limitedText">{{message.TextMessage}}</p>
+              </mat-card>
+            </div>
+            <p>{{message.CurrentDate | date:'HH:mm   dd.MM.yyyy.'}}</p>
+            <mat-card-actions>
+              <div class="allowbtn">
+                <button mat-button color="warn"
+                  (click)="onDelete(message.MessageId, message.TextMessage)"
+                  matTooltip="Delete Message>
+                  <mat-icon aria-hidden="false" aria-label=" ">clear</mat-icon>
+                </button>
+              </div>
+              <div class="commentbtn">
+                <button type="button" mat-mini-fab color="white" (click)="openCommentDialog(message.MessageId)"
+                  matTooltip="Leave a comment">
+                  <mat-icon class="commenticon">comment</mat-icon>
+                </button>
+              </div>
+            </mat-card-actions>
+          </mat-card-content>
+        </mat-card>
+      </span>
+    </div>
+    <p>UserName</p>
+    <div class="card m-5" style="width:18rem" *ngIf="userDetails">
+      <ul class="list-group">
+        <li class="list-group-item"><strong>Username : </strong>{{userDetails.userName}}</li>
+        <li class="list-group-item"><strong>FullName : </strong>{{userDetails.fullName}}</li>
+        <li class="list-group-item"><strong>Email : </strong>{{userDetails.email}}</li>
+      </ul>
+    </div>

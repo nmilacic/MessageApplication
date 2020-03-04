@@ -1,0 +1,20 @@
+.messagecontet{
+  width:auto;
+  height: auto;
+}
+.sendmessagebtn{
+  text-align:right;
+}
+.sendicon{
+  color:#3f3f3f;
+}
+.close{
+  text-align: right;
+}
+.message-full-width {
+  width: 100%;
+}
+.selectedgroup{
+ margin-top:auto;
+ padding-left: 2%;
+}
